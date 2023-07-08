@@ -5,8 +5,8 @@ project or run the following commands:
 yarn && yarn start
 ```
 
-Then yo can visit `http://localhost:3017/`, if you are using `3017` port you can
-choode another editing the file `package.json`:
+Then you can visit `http://localhost:3017/`, if you are using `3017` port you
+can choose another editing the file `package.json`:
 
 ```js
 ...
